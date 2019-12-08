@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{AA53C764-57A3-4B45-BD34-FD865FEC5D85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokerSessionLibrary/Dealer.cs">
+    <Files>
+      <File FileName="CardGameConsole/PokerProgram.cs" Line="31" Column="3" />
+      <File FileName="CardLibrary/Card.cs" Line="1" Column="1" />
+      <File FileName="CardLibrary/Deck.cs" Line="1" Column="1" />
+      <File FileName="CardLibrary/Hand.cs" Line="1" Column="1" />
+      <File FileName="CardLibrary/PokerHand.cs" Line="1" Column="1" />
+      <File FileName="CardLibrary/PokerHandEvaluator.cs" Line="1" Column="1" />
+      <File FileName="CardLibrary/PokerHandExtensions.cs" Line="1" Column="1" />
+      <File FileName="CardLibrary/Rank.cs" Line="1" Column="1" />
+      <File FileName="CardLibrary/Suit.cs" Line="1" Column="1" />
+      <File FileName="CardLibrary/SuitExtensions.cs" Line="1" Column="1" />
+      <File FileName="PokerSessionLibrary/Dealer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
